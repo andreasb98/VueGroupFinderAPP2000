@@ -17,8 +17,8 @@ Det trengs 2 ulike terminaler for å kjøre applikasjonen.
 npm install kommandoen vil laste inn alle nødvendige avhengigheter basert på listen i package.json fila. 
 Det er 1 package.json fil for frontend og 1 for backend. 
 
-change directory til du er inne i ...APP2000ACTUALLYFINAL/app
-skriv npm install i konsollet
+change directory til du er inne i ...APP2000ACTUALLYFINAL/app,
+og skriv npm install i konsollet
 
 I server/util/database.js ligger dbnavn, username, passord og host
 default er "protest" for dbnavn
