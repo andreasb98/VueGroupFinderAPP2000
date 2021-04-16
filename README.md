@@ -1,4 +1,4 @@
-# GroupFinderAPP2000
+# GroupFinder
 # For å kjøre lokalt:
 
 Du trenger VUE CLI og Node for å kjøre applikasjonen lokalt. 
