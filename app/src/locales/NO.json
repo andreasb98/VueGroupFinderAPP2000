@@ -1,0 +1,70 @@
+{
+  "logout": "logg ut",
+  "login": "Logg inn",
+  "newuser": "Ny bruker",
+  "reg": "Registrer",
+  "rediger": "Rediger",
+  "profil": "Brukerprofil",
+  "studentnr": "Studentnummer",
+  "studie": "Studie",
+  "telefon": "Nummer",
+  "fag": "Mine fag",
+  "grupper": "Mine grupper",
+  "fornavn": "Fornavn",
+  "etternavn": "Etternavn",
+  "save": "Lagre",
+  "saved": "Lagret",
+  "study": "Utdanningsløp",
+  "avbryt": "Avbryt",
+  "tilbake": "Tilbake",
+  "agree": "Er du enig?",
+  "clear": "Tøm",
+  "passord": {
+    "passord": "Passord",
+    "endre": "Endre passord",
+    "current": "Gjeldende passord",
+    "new": "Nytt passord",
+    "confirm": "Gjenta nytt passord",
+    "rules": "Passord må være minst 6 karakterer langt"
+  },
+  "nav": {
+    "home": "Hjem",
+    "groups": "Grupper",
+    "calendar": "Kalender"
+  },
+  "group": {
+    "ifgroup": "Du er ikke med i noen grupper.",
+    "grouplink": "Trykk her ",
+    "ifgroupjoin": "for å bli med!",
+    "new": "Opprett gruppe",
+    "title": "Gruppetittel",
+    "study": "Fagkode",
+    "create": "Opprett",
+    "example": "Emnekode/Fag/Kategori",
+    "search": "Søk i grupper"
+  },
+  "event": {
+    "attending": "deltagelse(r)",
+    "attendees": "Deltakere",
+    "organizer": "Organisert av",
+    "category": "Emne",
+    "location": "Sted",
+    "details": "Detaljer"
+  },
+  "calendar": {
+    "info": "Trykk på en dato for å opprette en reservasjon",
+    "reserve": "Reserver",
+    "end": "Slutt",
+    "rom": "Rom",
+    "lukk": "Lukk",
+    "terminate": "Avbestill reservering",
+    "confirm": "Er du sikker på at du vil avbestille reservasjon for",
+    "start": "Start tid",
+    "slutttid": "Slutt tid",
+    "group": "Hvilken gruppe gjelder det?",
+    "velgrom": "Velg rom",
+    "nystart": "Ny start tid",
+    "nyslutt": "Ny slutt tid",
+    "reservation": "Reservasjon"
+  }
+}

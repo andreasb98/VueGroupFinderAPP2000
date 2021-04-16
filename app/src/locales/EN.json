@@ -1,0 +1,70 @@
+{
+  "logout": "sign out",
+  "login": "Login",
+  "newuser": "New user",
+  "reg": "Register",
+  "rediger": "Edit",
+  "profil": "User Profile",
+  "studentnr": "Student ID",
+  "studie": "Study",
+  "telefon": "Phone number",
+  "fag": "My courses",
+  "grupper": "My groups",
+  "fornavn": "First name",
+  "etternavn": "Last name",
+  "save": "Save",
+  "saved": "Saved",
+  "study": "Study",
+  "avbryt": "Cancel",
+  "tilbake": "Back",
+  "agree": "Do you agree?",
+  "clear": "Clear",
+  "passord": {
+    "passord": "Password",
+    "endre": "Change password",
+    "current": "Current password",
+    "new": "New password",
+    "confirm": "Confirm new password",
+    "rules": "Password must be at least 6 characters long"
+  },
+  "nav": {
+    "home": "Home",
+    "groups": "Groups",
+    "calendar": "Calendar"
+  },
+  "group": {
+    "ifgroup": "You do not have any groups.",
+    "grouplink": "Click here ",
+    "ifgroupjoin": "to join!",
+    "new": "Create group",
+    "title": "Group title",
+    "study": "Course code",
+    "create": "Create",
+    "example": "Course/Category",
+    "search": "Search groups"
+  },
+  "event": {
+    "attending": "attending",
+    "attendees": "Attendees",
+    "organizer": "Organized by",
+    "category": "Subject",
+    "location": "Location",
+    "details": "Details"
+  },
+  "calendar": {
+    "info": "Click on a date to create a reservation",
+    "reserve": "Reserve",
+    "end": "End",
+    "rom": "Room",
+    "lukk": "Close",
+    "terminate": "Cancel reservation",
+    "confirm": "Are you sure you want to cancel reservation for",
+    "start": "Start time",
+    "slutttid": "End time",
+    "group": "Which group applies",
+    "velgrom": "Choose room",
+    "nystart": "New start time",
+    "nyslutt": "New end time",
+    "reservation": "Reservation"
+  }
+}
