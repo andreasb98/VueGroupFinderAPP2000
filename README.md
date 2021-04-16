@@ -31,13 +31,13 @@ skriv npm install i konsollet
 
 For å starte backend.
 
-change directory til du er inne i ...APP2000ACTUALLYFINAL/server
-skriv npm start i konsollet.
+change directory til du er inne i ...APP2000ACTUALLYFINAL/server,
+og skriv npm start i konsollet.
 
 For å starte frontend 
 
-change directory til du er inne i ...APP2000ACTUALLYFINAL/app
-skriv npm run serve i konsollet.
+change directory til du er inne i ...APP2000ACTUALLYFINAL/app,
+og skriv npm run serve i konsollet.
 
 Vue defaulter til localhost:8080, dette står i terminalen for frontend.
 
