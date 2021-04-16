@@ -24,8 +24,8 @@ I server/util/database.js ligger dbnavn, username, passord og host
 default er "protest" for dbnavn
 default username er root og passordet er tomt. 
 
-change directory til du er inne i ...APP2000ACTUALLYFINAL/server
-skriv npm install i konsollet
+change directory til du er inne i ...APP2000ACTUALLYFINAL/server,
+og skriv npm install i konsollet
 
 
 
