@@ -1,4 +1,11 @@
-# GroupFinder
+# GroupFinder  
+Utviklet av:  
+Tommy Egil Otervik  
+Sondre Mokleiv Nygård  
+Andreas Bahrawy  
+Anders Olai Pedersen  
+
+Chat-delen av applikasjonen er ufullstendig.
 # For å kjøre lokalt:
 
 Du trenger VUE CLI og Node for å kjøre applikasjonen lokalt. 
